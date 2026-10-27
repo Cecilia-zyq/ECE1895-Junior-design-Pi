@@ -1,4 +1,4 @@
-
+// Edited by Ledi Zhao
 void setup() {
   pinMode(8, OUTPUT);
   pinMode(2, INPUT_PULLUP);
